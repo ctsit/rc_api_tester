@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+
+# Purpose: 
+
+
 from urllib import request, parse
 # data
 data = parse.urlencode( {                                                                       
